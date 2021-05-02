@@ -3,9 +3,10 @@
 #ifndef _TFT_H_
 #define _TFT_H_
 
-#define BOARD     ESP32
 
-
+#define ARDUINO_UNO       0
+#define ARDUINO_DUE       1
+#define ESP32             2
 #define DEFINED           1 
 #define NOT_DEFINED       0 
 /*
@@ -14,6 +15,8 @@
  * ARDUINO_DUE
  * ESP32
  */
+#define BOARD             ARDUINO_UNO
+
 #if(BOARD == ARDUINO_DUE)
 /**
  * if and only if the Selected Board was ARDUINO_DUE
