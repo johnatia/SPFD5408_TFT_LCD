@@ -26,7 +26,7 @@
  */
 #define SHIELD    DEFINED
 #endif
-     
+      
   #define setWriteDirInline() { DDRD |=  B11111100; DDRB |=  B00000011; }
   #define write8inline(d) {                          \
     PORTD = (PORTD & B00000011) | ((d) & B11111100); \
