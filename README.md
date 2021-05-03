@@ -11,5 +11,10 @@
 ##### test5
 
 > block quotes
+> 1. item1
+> 2. item2
+
+1. item1
+2. item2
 
 
