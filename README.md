@@ -23,13 +23,13 @@
 for @mention1
 
 # Table of Contents
-1. [Example1](#example)
+1. [Example1](#ex1)
 2. [Example2](#example2)
 3. [Third Example](#third-example)
 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
 
 
-## Example1
+## Ex1
 ## Example2
 ## Third Example
 ## [Fourth Example](http://www.fourthexample.com)
