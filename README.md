@@ -18,7 +18,7 @@
 2. item2
 
 
-for @mention1
+for @ mention1
 
 
 
